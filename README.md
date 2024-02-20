@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Shashwat Saxena</h1>
 <h3 align="center">A passionate Full Stack Web Devloper from India</h3>
 
-<img align="right" alt="Coding" width="400" src="[3379765349765f7430696f4a2d5a2e676966](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20views&color=0e75b6&style=flat" alt="2004shashwat17" /> </p>
 
 - 🔭 I’m currently working on **Movie maniac**
