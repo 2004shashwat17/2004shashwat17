@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Shashwat Saxena</h1>
-<h3 align="center">A passionate Full Stack Web Devloper from India</h3>
+<h3 align="center">A passionate Full Stack Web & App Devloper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20views&color=0e75b6&style=flat" alt="2004shashwat17" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **React JS, MERN stack**
+- 💬 Ask me about **React JS, MERN stack, React Native**
 
 - 📫 How to reach me **shashwats500@gmail.com**
 
