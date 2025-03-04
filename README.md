@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20views&color=0e75b6&style=flat" alt="2004shashwat17" /> </p>
 
-- 🔭 I’m currently working on **Movie maniac**
+- 🔭 I’m currently working on my **TECH STACK**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React JS, MERN stack, React Native**
 
 - 📫 How to reach me **shashwats500@gmail.com**
 
-- ⚡ Fun fact **A coffee Lover🍵**
+- ⚡ Fun fact **I'am coffee Lover🍵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
