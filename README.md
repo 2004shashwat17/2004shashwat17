@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET**
 
+- 🍬 Work on UI DESIGNING && Software Tools **Figma, Draw.io, Kanban, Trello**
+
 - 📫 How to reach me **shashwats500@gmail.com**
 
 - ⚡ Fun fact **I'am coffee Lover🍵**
