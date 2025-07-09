@@ -12,7 +12,7 @@
 
 - 🍬 Work on UI DESIGNING && Software Tools **Figma, Draw.io, Kanban, Trello**
 
-- 🍬 Deployment on Microsoft Azure, Render, Netlify & Github **
+- 🗝️ Deployment on Microsoft Azure, Render, Netlify & Github **
 
 - 📫 How to reach me **shashwats500@gmail.com**
 
