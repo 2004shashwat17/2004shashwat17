@@ -12,6 +12,8 @@
 
 - 🍬 Work on UI DESIGNING && Software Tools **Figma, Draw.io, Kanban, Trello**
 
+- 🍬 Deployment on Microsoft Azure, Render, Netlify & Github **
+
 - 📫 How to reach me **shashwats500@gmail.com**
 
 - ⚡ Fun fact **I'am coffee Lover🍵**
