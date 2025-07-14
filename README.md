@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+![GamingGIF](https://github.com/user-attachments/assets/c8dffe2b-b290-42b9-807a-f51992f12e93)![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Shashwat Saxena</h1>
 <h3 align="center">A passionate Full Stack Web & App Devloper from India</h3>
 
@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently working on my **TECH STACK**
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET**
 
 - 🍬 Work on UI DESIGNING && Software Tools **Figma, Draw.io, Kanban, Trello**
 
 - 🗝️ Deployment on Microsoft Azure, Render, Netlify & Github **
 
-- 🗝 Some Demo Websites -> https://rommie-client.onrender.com/ , https://orange-meadow-027571e0f.2.azurestaticapps.net/ || https://braindomain.onrender.com/ **
+- 🗝 Some Demo Websites -> https://rommie-client.onrender.com/ || https://orange-meadow-027571e0f.2.azurestaticapps.net/ || https://braindomain.onrender.com/ **
 
 - 📫 How to reach me **shashwats500@gmail.com**
+
+- 👩🏻‍💻 Coding Platform -> https://codolio.com/profile/lpol5UMt || https://leetcode.com/shashwats500/
 
 - ⚡ Fun fact **I'am coffee Lover🍵**
 
