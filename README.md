@@ -31,7 +31,7 @@
 </p>
 
 ### 🔗 Progress:
-- [My LeetCode Profile](https://leetcode.com/shashwats500/)
+- [My Coding Profiles](https://codolio.com/profile/lpol5UMt)
 - ✅ 50 Days of DSA – *Completed ✔️*
 - ✅ 100 Days of Code – *Completed ✔️*
 
