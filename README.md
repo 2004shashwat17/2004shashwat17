@@ -48,5 +48,5 @@
 
 Here’s a snapshot of my open-source contribution history and activity across GitHub 👇
 
-<p align="center"> <img src="https://ghchart.rshah.org/2004shashwat17" alt="GitHub Contribution Chart" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2004shashwat17&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004shashwat17&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://ghchart.rshah.org/2004shashwat17" alt="GitHub Contribution Chart" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2004shashwat17&theme=tokyonight" alt="GitHub Streak" /> </p> 
 
