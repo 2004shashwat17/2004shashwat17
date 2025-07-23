@@ -31,15 +31,12 @@
 ### 🏆 Git Trophies :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2004shashwat17" alt="2004shashwat17" /></a> </p>
 
-### 🔗 Progress 👇🏻:
-- [Leetcode](https://leetcode.com/shashwats500/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/shashwafgi6/)
-- [Codolio](https://codolio.com/profile/lpol5UMt)
+### 🔗 Progress 👇🏻: - [Leetcode](https://leetcode.com/shashwats500/) || [GeeksforGeeks](https://www.geeksforgeeks.org/user/shashwafgi6/) || [Codolio](https://codolio.com/profile/lpol5UMt)
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-50DaysOfCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-100DaysOfCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA%20Practice-GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks" />
-  <img src="https://img.shields.io/badge/Platform-Codilo-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Platform-Codolio-blue?style=for-the-badge&logo=codeforces" />
 </p>
 <img src="https://leetcard.jacoblin.cool/shashwats500?theme=unicorn&ext=heatmap" width="400" />
 <h3 align="left">Languages and Tools:</h3>
