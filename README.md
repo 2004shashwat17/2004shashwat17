@@ -36,6 +36,10 @@
 - [My Coding Profiles](https://leetcode.com/shashwats500/)
 - ✅ 50 Days of DSA – *Completed ✔️*
 - ✅ 100 Days of Code – *Completed ✔️*
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-50DaysOfCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-100DaysOfCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
 <img src="https://leetcard.jacoblin.cool/shashwats500?theme=unicorn&ext=heatmap" width="400" />
 <h3 align="left">Languages and Tools:</h3>
