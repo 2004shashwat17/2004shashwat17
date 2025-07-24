@@ -53,11 +53,28 @@ Here’s a snapshot of my open-source contribution history and activity across G
 
 <p align="center"> <img src="https://ghchart.rshah.org/2004shashwat17" alt="GitHub Contribution Chart" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2004shashwat17&theme=tokyonight" alt="GitHub Streak" /> </p> 
 
-Here's all my achievements & Certification that i own during my college & coding journey.
+## 🏆 Achievements & Certifications
 
-https://github.com/2004shashwat17/achievements-Certificates
+🎯 Throughout my college and coding journey, I’ve worked hard to level up consistently. Check out all my verified certificates, badges, and accomplishments below:
 
-<img src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&theme=radical" width="350"/>
+📂 **[🔗 View My Achievements & Certifications Repo](https://github.com/2004shashwat17/achievements-Certificates)**
+
+### 🧠 Highlighted Categories:
+- 💻 **Development & Programming**
+- 🧮 **Data Structures & Algorithms**
+- 🌐 **Web Development**
+- 🤖 **Machine Learning & AI**
+- 📊 **Data Science & Analytics**
+- 🛡️ **Cybersecurity**
+- 🧩 **Hackathons & Coding Contests**
+- 📜 **Workshops, Webinars & More**
+
+---
+📌 Whether it's solving problems, building cool stuff, or continuously learning — this repo is a timeline of growth. Feel free to explore and get inspired!
+
+
+
+
 
 
 
