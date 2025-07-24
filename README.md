@@ -53,3 +53,12 @@ Here’s a snapshot of my open-source contribution history and activity across G
 
 <p align="center"> <img src="https://ghchart.rshah.org/2004shashwat17" alt="GitHub Contribution Chart" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2004shashwat17&theme=tokyonight" alt="GitHub Streak" /> </p> 
 
+Here's all my achievements & Certification that i own during my college & coding journey.
+
+https://github.com/2004shashwat17/achievements-Certificates
+
+<img src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&theme=radical" width="350"/>
+
+
+
+
