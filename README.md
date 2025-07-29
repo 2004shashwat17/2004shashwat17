@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my **TECH STACK**
 
-- 💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET**
+- 💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET, Spring Boot **
 
 - 🍬 Work on UI DESIGNING && Software Tools **Figma, Draw.io, Kanban, Trello**
 
