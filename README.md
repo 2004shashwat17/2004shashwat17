@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20views&color=0e75b6&style=flat" alt="2004shashwat17" /> </p>
 
-- 🔭 I’m currently working on my **TECH STACK**
+- 🔭 Currently a working professtional at 'Enalytechs' an ai driven cybersecurity company 
 
 - 💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET, Spring Boot **
 
