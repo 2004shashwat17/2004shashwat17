@@ -54,10 +54,6 @@ Check out my videos on [YouTube](https://www.youtube.com/@shashwatsaxena9628).
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&locale=en" alt="2004shashwat17" /></p>
 
-Here’s a snapshot of my open-source contribution history and activity across GitHub 👇
-
-<p align="center"> <img src="https://ghchart.rshah.org/2004shashwat17" alt="GitHub Contribution Chart" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=2004shashwat17&theme=tokyonight" alt="GitHub Streak" /> </p> 
-
 ## 🏆 Achievements & Certifications
 
 🎯 Throughout my college and coding journey, I’ve worked hard to level up consistently. Check out all my verified certificates, badges, and accomplishments below:
