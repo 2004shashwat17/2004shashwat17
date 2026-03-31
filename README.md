@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20views&color=0e75b6&style=flat" alt="2004shashwat17" /> </p>
 
-- 🔭 Currently a working professtional at 'Enalytechs' an ai driven cybersecurity company 
-
+- 🔭 Currently a working professtional at 'BWays Techno Solution' as a Associate Product Manager
+  
 - 💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET, Spring Boot **
 
 - 🍬 Work on UI DESIGNING && Software Tools **Figma, Draw.io, Kanban, Trello**
