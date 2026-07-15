@@ -8,15 +8,9 @@
   
 - 💬 Ask me about **React JS, MERN stack, React Native, PHP, C#/.NET, Spring Boot **
 
-- 🍬 Work on UI DESIGNING && Software Tools **Figma, Draw.io, Kanban, Trello**
-
 - 🗝️ Deployment on Microsoft Azure, Render, Netlify & Github **
 
-- 🗝 Some Demo Websites -> https://rommie-client.onrender.com/ || https://orange-meadow-027571e0f.2.azurestaticapps.net/ || https://braindomain.onrender.com/ **
-
 - 📫 How to reach me **shashwats500@gmail.com**
-
-- 👩🏻‍💻 Coding Platform -> https://codolio.com/profile/lpol5UMt || https://leetcode.com/shashwats500/
 
 - ⚡ Fun fact **I'am coffee Lover🍵**
 
