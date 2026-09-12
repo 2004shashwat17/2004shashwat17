@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/2004shashwat17">
-    <img src="https://img.shields.io/github/followers/2004shashwat17?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  </a>
   <a href="https://github.com/2004shashwat17?tab=repositories">
     <img src="https://img.shields.io/github/stars/2004shashwat17?label=Stars&style=for-the-badge" alt="GitHub Stars" />
   </a>
