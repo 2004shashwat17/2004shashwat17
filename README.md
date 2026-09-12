@@ -1,7 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Shashwat%20Saxena&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://readmeforge.natrajx.in/api/banner?text=AI%20%2B%20FULL%20STACK%20%2B%20AUTOMATION&subtext=Building%20Products%20with%20Code%20%26%20AI&metal=neon-blue&type=wave&width=900"
     width="100%"
+    alt="AI Full Stack Automation"
   />
 </p>
 
