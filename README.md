@@ -11,7 +11,8 @@
 <h3 align="center">
   Full Stack Developer • Product Builder • AI & Automation
 </h3>
-<table align="center">
+
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img
