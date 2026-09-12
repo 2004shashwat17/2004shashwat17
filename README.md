@@ -1,13 +1,9 @@
 <p align="center">
-  <video
-    src="https://github.com/2004shashwat17/2004shashwat17/raw/refs/heads/main/github%20banner.mp4"
+  <img
+    src="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/main/ezgif-22fe615a1487274b.gif"
+    alt="Shashwat Saxena - Full Stack Developer, Product Builder, AI & Automation"
     width="100%"
-    autoplay
-    loop
-    muted
-    playsinline
-    controls
-  ></video>
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashwat Saxena</h1>
