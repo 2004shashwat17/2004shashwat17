@@ -1,223 +1,40 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shashwat Saxena</h1>
+<h3 align="center">Full Stack Developer • Product Builder • AI & Automation</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:a371f7&height=190&section=header&text=Shashwat%20Saxena&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Product%20Builder%20%7C%20AI%20%26%20Automation&descAlignY=60&descSize=17&descColor=c9d1d9" width="100%" alt="Shashwat Saxena header"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20views&color=0e75b6&style=flat" alt="2004shashwat17" /> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=760&height=50&lines=Full+Stack+Developer;React+%2F+Node.js+%2F+TypeScript+%2F+.NET;React+Native+Developer;AI+%26+Automation+Enthusiast;Product-Minded+Engineer;Open+to+Remote+Opportunities+%F0%9F%8C%8E" alt="Typing animation"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2004shashwat17" alt="2004shashwat17" /></a> </p>
 
-<br/>
+<p align="left"> <a href="https://twitter.com/clientalio" target="blank"><img src="https://img.shields.io/twitter/follow/clientalio?logo=twitter&style=for-the-badge" alt="clientalio" /></a> </p>
 
-<a href="https://codolio.com/profile/lpol5UMt"><img src="https://img.shields.io/badge/Codolio-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Codolio"/></a>
-<a href="https://www.linkedin.com/in/buildwithshashwat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-<a href="mailto:shashwats500@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
-<a href="https://www.youtube.com/@shashwatsaxena9628"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube"/></a>
+- 🔭 I’m currently working on **Product Engineering, AI & Automation**
 
-<br/><br/>
+- 🌱 I’m currently learning **🌱 I’m currently learning LLMs, RAG, AI Agents, System Design & Cloud**
 
-<img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=PROFILE%20VIEWS&color=6e40c9&style=for-the-badge" alt="Profile views"/>
+- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on Full Stack, AI, Automation & Open Source Projects**
 
-</div>
+- 🤝 I’m looking for help with **🤝 I’m looking for help with AI/LLM applications, RAG systems & scalable product engineering**
 
-<div align="center">
+- 💬 Ask me about **React, Node.js, TypeScript, .NET, React Native, Web Scraping, AI & Automation**
 
-👨‍💻 About Me
+- 📫 How to reach me **shashwats500@gmail.com**
 
-</div>
+- ⚡ Fun fact **I turn ideas into products 🚀**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/clientalio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clientalio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/buildwithshashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buildwithshashwat" height="30" width="40" /></a>
+<a href="https://instagram.com/shashwats500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashwats500" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shashwatsaxena9628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shashwatsaxena9628" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codolio.com/profile/lpol5umt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codolio.com/profile/lpol5umt" height="30" width="40" /></a>
+</p>
 
-name: Shashwat Saxena
-role: Associate Product Manager
-company: BWays Techno Solution
-previous: Enalytechs
-location: New Delhi, India
-focus:
-  - Full Stack
-  - AI
-  - Automation
-status: Open to Remote
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-</td>
-<td width="50%" valign="top">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2004shashwat17&show_icons=true&locale=en&layout=compact" alt="2004shashwat17" /></p>
 
-🚀 Full Stack Web & App Developer
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&locale=en" alt="2004shashwat17" /></p>
 
-💼 Associate Product Manager @ BWays Techno Solution
-
-🔙 Ex-Enalytechs
-
-🤖 AI • LLM • RAG • Automation
-
-⚡ Product Engineering
-
-🌎 Open to Remote Opportunities
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-⚡ Tech Stack
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css,php&theme=dark" alt="Languages"/>
-
-Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" alt="Frontend"/>
-<img src="https://skillicons.dev/icons?i=reactnative&theme=dark" alt="React Native"/>
-
-Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,graphql&theme=dark" alt="Backend"/>
-
-Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres&theme=dark" alt="Databases"/>
-
-Cloud • DevOps • Tools
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,netlify,vercel,render,vscode,postman,figma,linux,nginx&theme=dark" alt="Cloud and tools"/>
-
-</div>
-
-<div align="center">
-
-🤖 AI & Automation
-
-<table>
-<tr>
-<td align="center"><b>LLM Apps</b><br/>🧠</td>
-<td align="center"><b>RAG</b><br/>🔎</td>
-<td align="center"><b>Automation</b><br/>⚙️</td>
-<td align="center"><b>Web Scraping</b><br/>🕷️</td>
-<td align="center"><b>REST APIs</b><br/>🔌</td>
-<td align="center"><b>Product Engineering</b><br/>🚀</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-📊 GitHub Analytics
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&bg_color=0d1117&title_color=a371f7&icon_color=a371f7&text_color=c9d1d9&border_color=6e40c9" height="180" alt="GitHub statistics"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004shashwat17&layout=compact&langs_count=8&theme=midnight-purple&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&border_color=6e40c9" height="180" alt="Top languages"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=2004shashwat17&theme=midnight-purple&background=0d1117&stroke=6e40c9&ring=a371f7&fire=a371f7&currStreakLabel=a371f7&sideLabels=c9d1d9&dates=8b949e&border=6e40c9" height="180" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2004shashwat17&bg_color=0d1117&color=a371f7&line=6e40c9&point=a371f7&area=true&hide_border=false&border_color=6e40c9&custom_title=Contribution%20Activity" width="95%" alt="GitHub activity graph"/>
-
-</div>
-
-<div align="center">
-
-🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=2004shashwat17&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub trophies"/>
-
-</div>
-
-<div align="center">
-
-🐍 Contribution Snake
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/github-snake.svg"/>
-<img src="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-</picture>
-
-</div>
-
-<div align="center">
-
-🏅 Achievements & Certifications
-
-<table>
-<tr>
-<td align="center">💻<br/><b>Development</b></td>
-<td align="center">🧮<br/><b>DSA</b></td>
-<td align="center">🌐<br/><b>Web Development</b></td>
-<td align="center">🤖<br/><b>AI / ML</b></td>
-</tr>
-<tr>
-<td align="center">📊<br/><b>Data Science</b></td>
-<td align="center">🛡️<br/><b>Cybersecurity</b></td>
-<td align="center">🏆<br/><b>Hackathons</b></td>
-<td align="center">📜<br/><b>Certifications</b></td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Replace this link with your achievements/certifications repository -->
-
-<a href="https://github.com/2004shashwat17">
-<img src="https://img.shields.io/badge/%F0%9F%8F%86_View_All_Achievements-6e40c9?style=for-the-badge&labelColor=0d1117" alt="View achievements"/>
-</a>
-
-</div>
-
-<div align="center">
-
-🧩 Coding Profiles
-
-<a href="https://codolio.com/profile/lpol5UMt"><img src="https://img.shields.io/badge/Codolio-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Codolio"/></a>
-<a href="YOUR_LEETCODE_PROFILE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" alt="LeetCode"/></a>
-<a href="YOUR_GFG_PROFILE_URL"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d1117" alt="GeeksforGeeks"/></a>
-
-</div>
-
-<div align="center">
-
-🌎 Open to Remote Opportunities
-
-<table>
-<tr>
-<td align="center">💻<br/><b>Full Stack</b></td>
-<td align="center">⚛️<br/><b>React / Next.js</b></td>
-<td align="center">📱<br/><b>React Native</b></td>
-<td align="center">🤖<br/><b>AI / Automation</b></td>
-<td align="center">🚀<br/><b>Product Engineer</b></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_REMOTE_OPPORTUNITIES-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Open to remote opportunities"/>
-
-</div>
-
-<div align="center">
-
-📬 Let's Connect
-
-<a href="https://codolio.com/profile/lpol5UMt"><img src="https://img.shields.io/badge/Codolio-6e40c9?style=for-the-badge&labelColor=0d1117" alt="Codolio"/></a>
-<a href="https://www.linkedin.com/in/buildwithshashwat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-<a href="mailto:shashwats500@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/></a>
-<a href="https://www.youtube.com/@shashwatsaxena9628"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube"/></a>
-<a href="https://www.instagram.com/shashwats500/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/></a>
-<a href="https://x.com/ShashwatPM"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,50:6e40c9,100:0d1117&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2004shashwat17&" alt="2004shashwat17" /></p>
