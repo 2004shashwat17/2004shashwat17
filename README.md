@@ -40,8 +40,6 @@
 - 📫 Reach me at **[shashwats500@gmail.com](mailto:shashwats500@gmail.com)**
 - ⚡ Fun fact: **I turn ideas into products 🚀**
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -73,10 +71,7 @@
        height="30"
        width="40" />
 </a>
-
 </p>
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -236,8 +231,6 @@
 
 </p>
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -246,7 +239,6 @@
     alt="GitHub Trophies"
   />
 </p>
----
 
 ## 📈 Contribution Activity
 
@@ -256,8 +248,6 @@
     alt="GitHub Contribution Snake"
   />
 </p>
-
-----
 
 ## 📊 GitHub Statistics
 
@@ -277,7 +267,6 @@
 <p align="center">
   <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=2004shashwat17" />
 </p>
----
 
 ## 👨‍💻 GitHub Profile
 
