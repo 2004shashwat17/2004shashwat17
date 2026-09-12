@@ -255,10 +255,19 @@
 
 ## 🔥 GitHub Streak
 
+## 📊 GitHub Statistics
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=2004shashwat17&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004shashwat17&layout=compact&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
@@ -272,7 +281,6 @@
     alt="GitHub Activity Graph"
   />
 </p>
-
 ---
 
 ## 👨‍💻 GitHub Profile
