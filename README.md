@@ -1,9 +1,13 @@
 <p align="center">
-  <img
-    src="https://readmeforge.natrajx.in/api/banner?text=AI%20%2B%20FULL%20STACK%20%2B%20AUTOMATION&subtext=Building%20Products%20with%20Code%20%26%20AI&metal=neon-blue&type=wave&width=900"
+  <video
+    src="https://github.com/2004shashwat17/2004shashwat17/raw/refs/heads/main/github%20banner.mp4"
     width="100%"
-    alt="AI Full Stack Automation"
-  />
+    autoplay
+    loop
+    muted
+    playsinline
+    controls
+  ></video>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashwat Saxena</h1>
