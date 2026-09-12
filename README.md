@@ -11,7 +11,6 @@
 <h3 align="center">
   Full Stack Developer • Product Builder • AI & Automation
 </h3>
-
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -20,7 +19,6 @@
         alt="Profile Views"
       />
     </td>
-
     <td align="center" width="50%">
       <a href="https://github.com/2004shashwat17?tab=repositories">
         <img
