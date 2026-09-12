@@ -233,24 +233,6 @@
 </p>
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=2004shashwat17&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=2004shashwat17" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=2004shashwat17" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -258,6 +240,27 @@
     src="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/github-snake.svg"
     alt="GitHub Contribution Snake"
   />
+</p>
+
+----
+
+## 📊 GitHub Statistics
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=2004shashwat17&show_icons=true" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=2004shashwat17" width="100%" />
+    </td>
+  </tr>
+</table>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=2004shashwat17" />
 </p>
 ---
 
