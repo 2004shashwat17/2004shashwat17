@@ -229,7 +229,12 @@
 
 ## 🏆 GitHub Trophies
 
-https://github-profile-trophy-orcin-eta.vercel.app/?username=2004shashwat17&theme=light
+<p align="center">
+  <img
+    src="https://github-profile-trophy-orcin-eta.vercel.app/?username=2004shashwat17&theme=light&no-frame=true&no-bg=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
 ---
 
 ## 📊 GitHub Statistics
