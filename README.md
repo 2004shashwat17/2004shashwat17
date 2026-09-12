@@ -3,22 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20views&color=0e75b6&style=flat" alt="2004shashwat17" /> </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&theme=midnight-purple&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004shashwat17&layout=compact&theme=midnight-purple&hide_border=true" height="180"/>
-</p>
-
-<!-- Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=2004shashwat17&theme=dark&hide_border=true" height="180"/>
-</p>
-
-<!-- Activity -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2004shashwat17&theme=github-compact&hide_border=true" width="95%"/>
-</p>
-
 <p align="left"> <a href="https://twitter.com/clientalio" target="blank"><img src="https://img.shields.io/twitter/follow/clientalio?logo=twitter&style=for-the-badge" alt="clientalio" /></a> </p>
 
 - 🔭 I’m currently working on **Product Engineering, AI & Automation**
