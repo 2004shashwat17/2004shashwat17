@@ -11,16 +11,25 @@
 <h3 align="center">
   Full Stack Developer • Product Builder • AI & Automation
 </h3>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+        alt="Profile Views"
+      />
+    </td>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2004shashwat17&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-  <a href="https://github.com/2004shashwat17?tab=repositories">
-    <img src="https://img.shields.io/github/stars/2004shashwat17?label=Stars&style=for-the-badge" alt="GitHub Stars" />
-  </a>
-</p>
-
+    <td align="center" width="50%">
+      <a href="https://github.com/2004shashwat17?tab=repositories">
+        <img
+          src="https://img.shields.io/github/stars/2004shashwat17?label=Stars&style=for-the-badge"
+          alt="GitHub Stars"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 About Me
