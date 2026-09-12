@@ -238,37 +238,17 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=2004shashwat17&show_icons=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004shashwat17&layout=compact&langs_count=10&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=2004shashwat17" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=2004shashwat17&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004shashwat17&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=2004shashwat17" />
 </p>
 
 ---
