@@ -259,8 +259,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=2004shashwat17&hide_border=true"
-    alt="GitHub Activity Graph"
+    src="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
 ---
