@@ -1,31 +1,23 @@
-<!-- ===================================================== -->
-<!--                        HERO                           -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-# 👋 Hi, I'm **Shashwat Saxena**
+# 👋 Hey, I'm Shashwat Saxena
 
-### 🚀 Full Stack Developer • Product Builder • Problem Solver
+### 🚀 Full Stack Developer • Product Builder • AI & Automation
 
-**Building scalable Web & Mobile Applications, AI-powered solutions & automation systems.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript+%7C+.NET;React+Native+Developer;AI+%26+Automation+Enthusiast;Product-Minded+Engineer;Open+to+Remote+Opportunities+🌎"/>
 
 <br/>
 
-<a href="https://codolio.com/profile/lpol5UMt" target="_blank">
-<img src="https://img.shields.io/badge/🧑‍💻_Codolio-View_My_Profile-6C63FF?style=for-the-badge"/>
+<a href="https://codolio.com/profile/lpol5UMt">
+<img src="https://img.shields.io/badge/🔥_CODOLIO-View_My_Profile-6C63FF?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/buildwithshashwat/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/buildwithshashwat/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shashwats500@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@shashwatsaxena9628" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -36,257 +28,54 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                  ANIMATED INTRO                       -->
-<!-- ===================================================== -->
+## 👨‍💻 About Me
+
+- 💻 Full Stack Web & App Developer
+- 🚀 Associate Product Manager at **BWays Techno Solution**
+- 🤖 Interested in **AI, RAG & Automation**
+- 📱 Web + Mobile Development
+- ☁️ Cloud & Deployment
+- 🕷️ Web Scraping & Automation
+- 🎨 UI/UX & Product Development
+- 🌎 **Open to Remote Opportunities**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript+%7C+.NET;React+Native+Mobile+Developer;AI+%26+Automation+Enthusiast;Product-Minded+Engineer;Cloud+%26+Deployment+Enthusiast;Open+to+Remote+Opportunities+🌎"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,html,css"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,graphql"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+### Cloud • DevOps • Tools
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,vercel,netlify"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-I'm **Shashwat Saxena**, a Full Stack Web & App Developer from India with experience across **software development, product management, UI/UX, web scraping, automation, operations, logistics and SEO**.
-
-Currently working as an **Associate Product Manager at BWays Techno Solution**, while continuing to build software products and strengthen my engineering skills.
-
-I enjoy taking ideas from:
-
-**Concept → Design → Development → Deployment → Production**
-
-### ⚡ Currently Focused On
-
-- 🚀 Full Stack Web Development
-- 📱 Mobile Application Development
-- 🤖 AI & Automation
-- 🧠 RAG & LLM-powered applications
-- ⚙️ Backend APIs & scalable systems
-- ☁️ Cloud deployment
-- 🕷️ Web Scraping & Data Automation
-- 🎨 UI/UX & Product Engineering
-- 📊 Data & Analytics
-- 🔍 SEO & Digital Products
-
----
-
-# 💼 Professional Experience
-
-### 🏢 Associate Product Manager — BWays Techno Solution
-
-Working across **product, technology, operations and development**.
-
-### Areas of Experience
-
-- Product development & planning
-- Full-stack application development
-- UI/UX improvement
-- Web scraping
-- Automation workflows
-- Logistics & delivery technology
-- SEO & digital growth
-- Cloud deployment
-- Technical problem solving
-- Product & business operations
-
-### Previous Experience
-
-**Ex — Enalytechs**
-
----
-
-# 🧠 Technical Skills
-
-## 💻 Programming Languages
+## 🤖 AI • Automation • Product
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,html,css" />
+`AI Applications` • `LLM` • `RAG` • `Automation` • `Web Scraping` • `REST APIs` • `Product Development` • `UI/UX`
 
 </div>
-
----
-
-## ⚛️ Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
-
-</div>
-
-**Technologies**
-
-`React.js` • `Next.js` • `React Native` • `Redux` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap`
-
----
-
-## ⚙️ Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,php,graphql" />
-
-</div>
-
-**Technologies**
-
-`Node.js` • `Express.js` • `PHP` • `C#/.NET` • `Spring Boot` • `REST APIs` • `GraphQL`
-
----
-
-## 🗄️ Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-</div>
-
-`MongoDB` • `MySQL` • `Firebase`
-
----
-
-## ☁️ Cloud • DevOps • Deployment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,github,git,linux,vercel,netlify" />
-
-</div>
-
-`Microsoft Azure` • `AWS` • `Docker` • `Git` • `GitHub` • `Linux` • `Netlify` • `Render` • `Vercel`
-
----
-
-## 🧪 Engineering
-
-`REST APIs` • `Authentication` • `API Integration` • `CI/CD` • `GitHub Actions` • `Responsive Design` • `Testing` • `Version Control`
-
----
-
-## 🎨 Product & Design
-
-`Figma` • `UI/UX` • `Product Thinking` • `Wireframing` • `User Experience` • `Product Development`
-
----
-
-# 🤖 AI & Automation
-
-I'm actively exploring and building with:
-
-```text
-AI Applications
-      ↓
-LLM Integrations
-      ↓
-RAG Systems
-      ↓
-Automation Workflows
-      ↓
-API Integrations
-      ↓
-Production Applications
-```
-
-### Areas
-
-- 🤖 AI-powered applications
-- 🧠 LLM integrations
-- 🔎 Retrieval-Augmented Generation
-- ⚡ Workflow automation
-- 🕷️ Web scraping
-- 📊 Data processing
-- 🔌 API automation
-- 🧩 AI-assisted development
-
----
-
-# 🏗️ How I Build
-
-<div align="center">
-
-```text
-              💡 IDEA / PROBLEM
-                     │
-                     ▼
-              🎨 PRODUCT / UX
-                     │
-                     ▼
-           ⚛️ FRONTEND DEVELOPMENT
-                     │
-                     ▼
-              ⚙️ BACKEND / APIs
-                     │
-                     ▼
-                 🗄️ DATABASE
-                     │
-                     ▼
-              🤖 AI / AUTOMATION
-                     │
-                     ▼
-             ☁️ CLOUD / DEPLOYMENT
-                     │
-                     ▼
-                 🚀 PRODUCTION
-```
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-### 🌐 Domain
-
-JavaScript-based web development project.
-
-**Technology:** `JavaScript`
-
----
-
-### 🎮 Multiplayer Pong
-
-Multiplayer gaming project focused on interactive gameplay and real-time user interaction.
-
-**Focus:** `Game Logic` • `Multiplayer` • `Frontend Development`
-
----
-
-### 👨‍🏫 Coaching Guru
-
-Mobile application project focused on delivering a modern mobile experience.
-
-**Technology:** `React Native` • `TypeScript`
-
----
-
-### 🤝 Tavaro
-
-### A Local Skill Barter Network
-
-A platform concept focused on helping people connect and exchange skills.
-
-**Technology:** `TypeScript`
-
----
-
-### ⚡ RhynoEV
-
-EV-focused application/project.
-
-**Technology:** `JavaScript`
-
----
-
-### 🏠 Rommie
-
-Web application project.
-
-**Technology:** `JavaScript`
 
 ---
 
@@ -294,71 +83,13 @@ Web application project.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=2004shashwat17&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=2004shashwat17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
 
 </div>
 
 ---
 
-# 🏅 Achievements & Certifications
-
-Throughout my college and development journey, I've continuously worked on improving my technical skills through **certifications, workshops, coding platforms, hackathons and practical projects**.
-
-### 🧠 Highlighted Areas
-
-- 💻 Development & Programming
-- 🧮 Data Structures & Algorithms
-- 🌐 Web Development
-- 🤖 Machine Learning & Artificial Intelligence
-- 📊 Data Science & Analytics
-- 🛡️ Cybersecurity
-- 🧩 Hackathons & Coding Contests
-- 📜 Workshops & Webinars
-- ☁️ Cloud & Technology
-
-### 📚 My Achievement Archive
-
-All verified certificates, badges and accomplishments are maintained in my dedicated achievements repository.
-
-👉 **[🏆 View My Achievements & Certifications](YOUR_ACHIEVEMENTS_REPOSITORY_LINK)**
-
----
-
-# 🧑‍💻 Coding & Problem Solving
-
-<div align="center">
-
-<a href="https://leetcode.com/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/profile/lpol5UMt" target="_blank">
-<img src="https://img.shields.io/badge/Codolio-View_Full_Profile-6C63FF?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔗 Explore My Complete Coding Journey
-
-<a href="https://codolio.com/profile/lpol5UMt">
-
-<img src="https://img.shields.io/badge/🔥_CODOLIO_PROFILE-Explore_My_Progress-6C63FF?style=for-the-badge&logo=code&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -390,7 +121,7 @@ All verified certificates, badges and accomplishments are maintained in my dedic
 
 ---
 
-# 🐍 GitHub Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -405,7 +136,7 @@ media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/github-snake.svg"/>
 
 <img
-alt="GitHub Contribution Snake Animation"
+alt="GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/github-snake.svg"/>
 
 </picture>
@@ -414,98 +145,66 @@ src="https://raw.githubusercontent.com/2004shashwat17/2004shashwat17/output/gith
 
 ---
 
-# 🧩 Development Philosophy
+# 🏅 Achievements & Certifications
 
 <div align="center">
 
-```text
-                    BUILD
-                      │
-                      ▼
-                    LEARN
-                      │
-                      ▼
-                  IMPROVE
-                      │
-                      ▼
-                    SHIP
-                      │
-                      ▼
-                  REPEAT 🔁
-```
+💻 Development & Programming  
+🧮 Data Structures & Algorithms  
+🤖 AI & Machine Learning  
+🌐 Web Development  
+☁️ Cloud & Technology  
+🏆 Hackathons & Competitions  
+📜 Workshops & Certifications
+
+<br/><br/>
+
+<a href="YOUR_ACHIEVEMENTS_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/🏆_View_All_Achievements-6C63FF?style=for-the-badge"/>
+</a>
 
 </div>
 
-> I believe the best way to learn technology is to **build real things, solve real problems and continuously improve.**
+---
+
+# 🧑‍💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://codolio.com/profile/lpol5UMt">
+<img src="https://img.shields.io/badge/Codolio-View_Profile-6C63FF?style=for-the-badge"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 🌎 Open to Remote Opportunities
 
-I'm interested in working with **remote-first teams, startups and technology companies** where I can contribute as a:
-
-### 💻 Full Stack Developer
-
-Frontend • Backend • APIs • Databases
-
-### ⚛️ Frontend Developer
-
-React • Next.js • TypeScript • Responsive UI
-
-### 📱 Mobile Developer
-
-React Native • Cross-platform applications
-
-### 🤖 AI / Automation Developer
-
-AI Applications • RAG • APIs • Automation
-
-### 🚀 Product Engineer
-
-Product Development • UX • Technical Problem Solving
-
----
-
-# 📺 YouTube
-
 <div align="center">
 
-<a href="https://www.youtube.com/@shashwatsaxena9628">
+### 💻 Full Stack Development
+### ⚛️ React / Next.js
+### 📱 React Native
+### 🤖 AI & Automation
+### 🚀 Product Engineering
 
-<img src="https://img.shields.io/badge/🎥_Visit_My_YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<br/>
 
-</a>
+**Let's build something great together.**
 
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://codolio.com/profile/lpol5UMt">
-<img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/buildwithshashwat/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
 <a href="mailto:shashwats500@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@shashwatsaxena9628">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/shashwats500/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ShashwatPM">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/📩_Get_In_Touch-EA4335?style=for-the-badge"/>
 </a>
 
 </div>
@@ -514,10 +213,8 @@ Product Development • UX • Technical Problem Solving
 
 <div align="center">
 
-### ⚡ Build. Learn. Ship. Repeat.
+### ⚡ Build • Learn • Ship • Repeat
 
-**Thanks for visiting my profile!**
-
-⭐ Explore my repositories • 🧑‍💻 Check my Codolio • 🤝 Let's connect
+⭐ Thanks for visiting my profile!
 
 </div>
